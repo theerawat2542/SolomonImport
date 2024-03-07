@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolomonImport", "SolomonImport\SolomonImport.csproj", "{1D4B400D-DA3B-4153-9EA1-7E79F5FA7666}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SolomonImportSetup", "SolomonImportSetup\SolomonImportSetup.vdproj", "{F4CAB159-B206-474F-8708-E745F69E20DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4B400D-DA3B-4153-9EA1-7E79F5FA7666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4B400D-DA3B-4153-9EA1-7E79F5FA7666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4B400D-DA3B-4153-9EA1-7E79F5FA7666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4B400D-DA3B-4153-9EA1-7E79F5FA7666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CAB159-B206-474F-8708-E745F69E20DD}.Debug|Any CPU.ActiveCfg = Debug
+		{F4CAB159-B206-474F-8708-E745F69E20DD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67EAC1E3-944F-4BB7-84E1-110486AC5323}
+	EndGlobalSection
+EndGlobal
