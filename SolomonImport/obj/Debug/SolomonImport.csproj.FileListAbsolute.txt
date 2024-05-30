@@ -82,3 +82,4 @@ C:\Users\240097512\Downloads\SOLOMON\SolomonImport\SolomonImport\bin\Debug\Syste
 C:\Users\240097512\Downloads\SOLOMON\SolomonImport\SolomonImport\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\240097512\Downloads\SOLOMON\SolomonImport\SolomonImport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\240097512\Downloads\SOLOMON\SolomonImport\SolomonImport\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\240097512\Downloads\SOLOMON\SolomonImport\SolomonImport\bin\Debug\System.Configuration.ConfigurationManager.xml
