@@ -186,14 +186,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SolomonImport.exe" size="74688">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SolomonImport.exe" size="76224">
       <assemblyIdentity name="SolomonImport" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rdEZdBhZ5mrsshJBZaVcLwwKEjbExRAE8qfSfx5F8ns=</dsig:DigestValue>
+        <dsig:DigestValue>twsWfQExFtKO5AgShk48HQ7TUI1/hjE7HYImfhH2wrQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
